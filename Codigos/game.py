@@ -1,6 +1,6 @@
-#Código de un juego en el que una figura debe esquivar a otras figuras que caen de la parte superior de la pantalla
-#    Se va incrementando de nivel a medida de los cuadros caen con una velocidad mayor
-#
+# Código de un juego en el que una figura debe esquivar a otras figuras que caen de la parte superior de la pantalla
+# Se va incrementando de nivel a medida de los cuadros caen con una velocidad mayor
+# Usando un tutorial en youtube 
 
 import sys
 import random
